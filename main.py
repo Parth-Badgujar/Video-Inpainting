@@ -81,7 +81,7 @@ video_vae.requires_grad_(False)
 
 
 
-path = "/teamspace/studios/this_studio/BIVDiff/models--sd-legacy--stable-diffusion-v1-5/snapshots/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/unet/"
+path = ""
 
 
 model_id = "sd-legacy/stable-diffusion-v1-5"
