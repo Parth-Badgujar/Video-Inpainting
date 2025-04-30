@@ -57,7 +57,7 @@ def clear():
     torch.cuda.empty_cache()
 
 
-os.environ["HF_TOKEN"] = "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" 
+os.environ["HF_TOKEN"] = "" 
 os.environ["HF_HUB_ENABLE_HF_TRANSFER"] = "1"
 
 
